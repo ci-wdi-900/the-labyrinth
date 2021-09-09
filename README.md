@@ -1,5 +1,7 @@
 # Command-line Labyrinth
 
+
+
 In this assignment, we'll be playing a game with the command line. In phase one of the game, you'll create a maze of folders using the command line. In phase two, you'll partner up with partner up with a class mate who will attempt to find their way through your maze of folders once again, using the command line.
 
 ## Phase 1: Create your labyrinth
